@@ -9,6 +9,12 @@ class App {
 		while(i>arr.length) {
 			System.out.println(arr[i]);
 			System.out.println(i);
+			i++;
+		}
+		while(i<arr.length) {
+			System.out.println(arr[i]);
+			System.out.println(i);
+			i--;
 		}
 	}
 
