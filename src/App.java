@@ -16,6 +16,9 @@ class App {
 			System.out.println(i);
 			i--;
 		}
+		while(true) {
+			
+		}
 	}
 
 }
