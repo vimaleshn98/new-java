@@ -10,6 +10,9 @@ class App {
 			System.out.println(arr[i]);
 			System.out.println(i);
 		}
+		while(true) {
+			
+		}
 	}
 
 }
