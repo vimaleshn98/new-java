@@ -8,6 +8,8 @@ class App {
 		int i=0;
 		while(i>arr.length) {
 			System.out.println(arr[i]);
+			System.out.println(i);
+			System.out.println(i);
 		}
 	}
 
